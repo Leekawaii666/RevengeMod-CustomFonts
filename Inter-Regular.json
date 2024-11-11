@@ -1,0 +1,25 @@
+ {
+    "spec": 1,
+    "name": "GFMissGothic",
+    "previewText": "This Is For All The Puta's In The World. Yknow The Mexicans That Think Theyre Korean.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "ggsans-Bold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "ggsans-BoldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "ggsans-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "ggsans-Medium": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+     "ggsans-MediumItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "ggsans-Normal": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "ggsans-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "NotoSans-Bold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "NotoSans-Medium": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "NotoSans-Normal": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "NotoSans-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf",
+        "SourceCodePro-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/Inter-Regular.ttf"
+    }
+}
