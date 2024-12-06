@@ -1,0 +1,25 @@
+ {
+    "spec": 1,
+    "name": "Volte Rounded",
+    "previewText": "This Is For All The Puta's In The World. Yknow The Mexicans That Think Theyre Korean.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "ggsans-Bold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "ggsans-BoldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "ggsans-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "ggsans-Medium": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+     "ggsans-MediumItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "ggsans-Normal": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "ggsans-NormalItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "ggsans-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "NotoSans-Bold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "NotoSans-Medium": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "NotoSans-Normal": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "NotoSans-NormalItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "NotoSans-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf",
+        "SourceCodePro-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/refs/heads/main/Volte.ttf"
+    }
+}
