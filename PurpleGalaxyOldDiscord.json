@@ -21,12 +21,12 @@
         "#d8c28f"
     ],
     "TEXT_NORMAL": [
-        "#ffffff",
-        "#ffffff"
+        "#EFDFD7",
+        "#EFDFD7"
     ],
     "TEXT_MUTED": [
-        "#ffffff",
-        "#ffffff"
+        "#EFDFD7",
+        "#EFDFD7"
     ],
     "INTERACTIVE_NORMAL": [
         "#fbd1e6",
