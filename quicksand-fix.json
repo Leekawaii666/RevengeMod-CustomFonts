@@ -1,0 +1,26 @@
+ 
+ {
+    "spec": 1,
+    "name": "QuickSand",
+    "previewText": "This Is For All The Puta's In The World. Yknow The Mexicans That Think Theyre Korean.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMSBold.ttf",
+        "ggsans-Bold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/TrebuchetMSBold.ttf",
+        "ggsans-BoldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMSBold.ttf",
+        "ggsans-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMSBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMSBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMS.ttf",
+     "ggsans-MediumItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMSItalix.ttf",
+        "ggsans-Normal": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMS.ttf",
+        "ggsans-NormalItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMSUtalic.ttf",
+        "ggsans-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebucherMSBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMSBoldItalic.ttf",
+        "NotoSans-Bold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetBoldMS.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetBoldMS.ttf",
+        "NotoSans-Medium": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebucherMS.ttf",
+        "NotoSans-Normal": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMS.ttf",
+        "NotoSans-NormalItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebucherMSItalic.ttf",
+        "NotoSans-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMSBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/TrebuchetMSBold.ttf"
+    }
+}
